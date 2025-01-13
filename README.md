@@ -13,4 +13,4 @@ In the `config.py file`, change the `bot token` to your own, and change the `adm
 
 
 
-by kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kudeby kude
+by rejQ
