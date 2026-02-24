@@ -8,7 +8,7 @@ Installing libraries:
     `pip install functions`
 
 
-In the `config.py file`, change the `bot token` to your own, and change the `admin id` to your own (you can also leave 1 user id, then the administrator will also be 1) by kude
+In the `config.py file`, change the `bot token` to your own, and change the `admin id` to your own (you can also leave 1 user id, then the administrator will also be 1) by redrum
 
 
 
