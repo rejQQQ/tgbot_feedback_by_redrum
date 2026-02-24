@@ -1,4 +1,4 @@
-# tgbot_feedback_by_kude
+# tgbot_feedback_by_redrum
 
 This is a feedback bot for telegrams with built-in buttons and the ability to ban users. by kude
 
